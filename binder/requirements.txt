@@ -1,7 +1,9 @@
 gurobipy
 jupytext
+matplotlib
 networkx
 numpy
 openpyxl
 pandas
 scipy
+shapely
